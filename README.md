@@ -2,6 +2,9 @@ This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-
 
 ## Getting Started
 
+View Deployed on:
+https://portfolio-one-topaz-56.vercel.app
+
 First, run the development server:
 
 ```bash
